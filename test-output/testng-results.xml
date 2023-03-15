@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T20:12:24 IST" name="Suite" finished-at="2023-02-16T20:15:27 IST" duration-ms="182587">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T20:12:24 IST" name="Test" finished-at="2023-02-16T20:15:27 IST" duration-ms="182587">
+      <class name="Com.internetbanking.TestCases.NewCustomerTest">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbanking.TestCases.NewCustomerTest@589da3f3]" started-at="2023-02-16T20:13:02 IST" name="initialization" finished-at="2023-02-16T20:13:43 IST" duration-ms="40803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddnewCustomer()[pri:0, instance:Com.internetbanking.TestCases.NewCustomerTest@589da3f3]" started-at="2023-02-16T20:13:43 IST" name="AddnewCustomer" finished-at="2023-02-16T20:14:26 IST" duration-ms="43540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddnewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbanking.TestCases.NewCustomerTest@589da3f3]" started-at="2023-02-16T20:14:26 IST" name="tearDown" finished-at="2023-02-16T20:14:30 IST" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbanking.TestCases.NewCustomerTest -->
+      <class name="Com.internetbanking.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbanking.TestCases.LoginPageTest@4bbf6d0e]" started-at="2023-02-16T20:12:25 IST" name="initialization" finished-at="2023-02-16T20:12:50 IST" duration-ms="25860" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginTest()[pri:0, instance:Com.internetbanking.TestCases.LoginPageTest@4bbf6d0e]" started-at="2023-02-16T20:12:50 IST" name="LoginTest" finished-at="2023-02-16T20:12:58 IST" duration-ms="7534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbanking.TestCases.LoginPageTest@4bbf6d0e]" started-at="2023-02-16T20:12:58 IST" name="tearDown" finished-at="2023-02-16T20:13:02 IST" duration-ms="3953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbanking.TestCases.LoginPageTest -->
+      <class name="Com.internetbanking.TestCases.TC_AccountCreation_003">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbanking.TestCases.TC_AccountCreation_003@39d76cb5]" started-at="2023-02-16T20:14:30 IST" name="initialization" finished-at="2023-02-16T20:14:47 IST" duration-ms="16964" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddNewAccount()[pri:0, instance:Com.internetbanking.TestCases.TC_AccountCreation_003@39d76cb5]" started-at="2023-02-16T20:14:47 IST" name="AddNewAccount" finished-at="2023-02-16T20:15:23 IST" duration-ms="36405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbanking.TestCases.TC_AccountCreation_003@39d76cb5]" started-at="2023-02-16T20:15:23 IST" name="tearDown" finished-at="2023-02-16T20:15:27 IST" duration-ms="3685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbanking.TestCases.TC_AccountCreation_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

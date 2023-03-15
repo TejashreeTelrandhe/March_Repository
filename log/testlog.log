@@ -1,0 +1,632 @@
+2022-11-28 08:31:49,419 - 9JulyBanking -INFO - URL is open
+2022-11-28 08:31:51,348 - 9JulyBanking -INFO - Enter username
+2022-11-28 08:31:51,789 - 9JulyBanking -INFO - Enter Password
+
+2022-11-28 08:34:17,642 - 9JulyBanking -INFO - URL is open
+2022-11-28 08:34:18,024 - 9JulyBanking -INFO - Enter username
+2022-11-28 08:34:18,634 - 9JulyBanking -INFO - Enter Password
+2022-11-28 08:41:02,973 - 9JulyBanking -INFO - URL is opened
+2022-11-28 08:41:03,317 - 9JulyBanking -INFO - Enter username
+2022-11-28 08:41:03,932 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 08:41:12,964 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 08:41:21,616 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 08:41:21,683 - 9JulyBanking -INFO - Enter customer name
+2022-11-28 08:41:21,814 - 9JulyBanking -INFO - Select gender
+2022-11-28 08:41:21,955 - 9JulyBanking -INFO - Select DOB
+2022-11-28 08:41:24,043 - 9JulyBanking -INFO - Enter Address
+2022-11-28 08:41:24,099 - 9JulyBanking -INFO - Select city
+2022-11-28 08:41:24,135 - 9JulyBanking -INFO - Select State
+2022-11-28 08:41:24,177 - 9JulyBanking -INFO - Select Pinno
+2022-11-28 08:41:24,211 - 9JulyBanking -INFO - Enter mobile number
+2022-11-28 08:41:24,263 - 9JulyBanking -INFO - Enter email address
+2022-11-28 08:41:24,316 - 9JulyBanking -INFO - Enter password
+2022-11-28 08:41:25,012 - 9JulyBanking -INFO - Click on submit button
+2022-11-28 08:41:39,147 - 9JulyBanking -INFO - URL is open
+2022-11-28 08:41:39,466 - 9JulyBanking -INFO - Enter username
+2022-11-28 08:41:40,017 - 9JulyBanking -INFO - Enter Password
+2022-11-28 08:41:47,263 - 9JulyBanking -INFO - Get Title
+2022-11-28 08:45:24,371 - 9JulyBanking -INFO - URL is opened
+2022-11-28 08:45:25,031 - 9JulyBanking -INFO - Enter username
+2022-11-28 08:45:25,504 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 08:45:34,031 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 08:45:43,096 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 08:45:43,197 - 9JulyBanking -INFO - Enter customer name
+2022-11-28 08:45:43,303 - 9JulyBanking -INFO - Select gender
+2022-11-28 08:45:43,451 - 9JulyBanking -INFO - Select DOB
+2022-11-28 08:45:45,562 - 9JulyBanking -INFO - Enter Address
+2022-11-28 08:45:45,666 - 9JulyBanking -INFO - Select city
+2022-11-28 08:45:45,708 - 9JulyBanking -INFO - Select State
+2022-11-28 08:45:45,757 - 9JulyBanking -INFO - Select Pinno
+2022-11-28 08:45:45,794 - 9JulyBanking -INFO - Enter mobile number
+2022-11-28 08:45:45,844 - 9JulyBanking -INFO - Enter email address
+2022-11-28 08:45:45,896 - 9JulyBanking -INFO - Enter password
+2022-11-28 08:45:49,878 - 9JulyBanking -INFO - Click on submit button
+2022-11-28 08:45:51,936 - 9JulyBanking -INFO - User created
+2022-11-28 09:13:04,961 - 9JulyBanking -INFO - URL is opened
+2022-11-28 09:13:05,618 - 9JulyBanking -INFO - Enter username
+2022-11-28 09:13:07,458 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 09:13:15,770 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-28 09:13:19,466 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-28 09:13:21,517 - 9JulyBanking -INFO - Enter deposit value
+2022-11-28 09:13:23,451 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-28 09:13:23,485 - 9JulyBanking -INFO - Accoutn created
+2022-11-28 11:02:40,489 - 9JulyBanking -INFO - URL is opened
+2022-11-28 11:02:41,093 - 9JulyBanking -INFO - Enter username
+2022-11-28 11:02:42,947 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 11:02:54,059 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 11:03:03,702 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 11:03:03,804 - 9JulyBanking -INFO - Enter customer name
+2022-11-28 11:03:03,937 - 9JulyBanking -INFO - Select gender
+2022-11-28 11:03:04,112 - 9JulyBanking -INFO - Select DOB
+2022-11-28 11:03:06,194 - 9JulyBanking -INFO - Enter Address
+2022-11-28 11:03:06,250 - 9JulyBanking -INFO - Select city
+2022-11-28 11:03:06,291 - 9JulyBanking -INFO - Select State
+2022-11-28 11:03:06,330 - 9JulyBanking -INFO - Select Pinno
+2022-11-28 11:03:06,367 - 9JulyBanking -INFO - Enter mobile number
+2022-11-28 11:03:06,406 - 9JulyBanking -INFO - Enter email address
+2022-11-28 11:03:06,454 - 9JulyBanking -INFO - Enter password
+2022-11-28 11:03:10,569 - 9JulyBanking -INFO - Click on submit button
+2022-11-28 11:03:12,636 - 9JulyBanking -INFO - User created
+2022-11-28 11:09:37,845 - 9JulyBanking -INFO - URL is opened
+2022-11-28 11:09:39,090 - 9JulyBanking -INFO - Enter username
+2022-11-28 11:09:39,251 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 11:09:48,673 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 11:09:58,277 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 11:09:58,387 - 9JulyBanking -INFO - Enter customer name
+2022-11-28 11:09:58,447 - 9JulyBanking -INFO - Select gender
+2022-11-28 11:09:58,619 - 9JulyBanking -INFO - Select DOB
+2022-11-28 11:10:00,702 - 9JulyBanking -INFO - Enter Address
+2022-11-28 11:10:00,758 - 9JulyBanking -INFO - Select city
+2022-11-28 11:10:00,796 - 9JulyBanking -INFO - Select State
+2022-11-28 11:10:00,837 - 9JulyBanking -INFO - Select Pinno
+2022-11-28 11:10:00,874 - 9JulyBanking -INFO - Enter mobile number
+2022-11-28 11:10:00,920 - 9JulyBanking -INFO - Enter email address
+2022-11-28 11:10:00,961 - 9JulyBanking -INFO - Enter password
+2022-11-28 11:10:05,003 - 9JulyBanking -INFO - Click on submit button
+2022-11-28 11:10:07,043 - 9JulyBanking -INFO - User created
+2022-11-28 11:10:19,864 - 9JulyBanking -INFO - URL is open
+2022-11-28 11:10:20,235 - 9JulyBanking -INFO - Enter username
+2022-11-28 11:10:20,772 - 9JulyBanking -INFO - Enter Password
+2022-11-28 11:10:43,075 - 9JulyBanking -INFO - URL is opened
+2022-11-28 11:10:43,409 - 9JulyBanking -INFO - Enter username
+2022-11-28 11:10:43,494 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 11:10:54,290 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-28 11:10:58,163 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-28 11:11:00,237 - 9JulyBanking -INFO - Enter deposit value
+2022-11-28 11:11:02,561 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-28 11:11:02,591 - 9JulyBanking -INFO - Accoutn created
+2022-11-28 15:59:31,992 - 9JulyBanking -INFO - URL is opened
+2022-11-28 15:59:33,395 - 9JulyBanking -INFO - Enter username
+2022-11-28 15:59:34,514 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 15:59:42,046 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 15:59:51,579 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-28 15:59:51,647 - 9JulyBanking -INFO - Enter customer name
+2022-11-28 15:59:51,705 - 9JulyBanking -INFO - Select gender
+2022-11-28 15:59:51,876 - 9JulyBanking -INFO - Select DOB
+2022-11-28 15:59:53,971 - 9JulyBanking -INFO - Enter Address
+2022-11-28 15:59:54,025 - 9JulyBanking -INFO - Select city
+2022-11-28 15:59:54,064 - 9JulyBanking -INFO - Select State
+2022-11-28 15:59:54,106 - 9JulyBanking -INFO - Select Pinno
+2022-11-28 15:59:54,142 - 9JulyBanking -INFO - Enter mobile number
+2022-11-28 15:59:54,189 - 9JulyBanking -INFO - Enter email address
+2022-11-28 15:59:54,231 - 9JulyBanking -INFO - Enter password
+2022-11-28 15:59:56,774 - 9JulyBanking -INFO - Click on submit button
+2022-11-28 16:00:13,110 - 9JulyBanking -INFO - URL is open
+2022-11-28 16:00:13,726 - 9JulyBanking -INFO - Enter username
+2022-11-28 16:00:15,427 - 9JulyBanking -INFO - Enter Password
+2022-11-28 16:00:35,371 - 9JulyBanking -INFO - URL is opened
+2022-11-28 16:00:35,918 - 9JulyBanking -INFO - Enter username
+2022-11-28 16:00:37,680 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 16:00:46,493 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-28 16:00:50,425 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-28 16:00:52,497 - 9JulyBanking -INFO - Enter deposit value
+2022-11-28 16:00:55,259 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-28 16:00:55,300 - 9JulyBanking -INFO - Accoutn created
+2022-11-28 16:04:43,135 - 9JulyBanking -INFO - URL is opened
+2022-11-28 16:04:45,126 - 9JulyBanking -INFO - Enter username
+2022-11-28 16:04:45,603 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 16:04:55,344 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-28 16:04:57,501 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-28 16:04:59,557 - 9JulyBanking -INFO - Enter deposit value
+2022-11-28 16:05:02,132 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-28 16:05:02,168 - 9JulyBanking -INFO - Accoutn created
+2022-11-28 17:17:28,877 - 9JulyBanking -INFO - URL is opened
+2022-11-28 17:17:29,401 - 9JulyBanking -INFO - Enter username
+2022-11-28 17:17:29,650 - 9JulyBanking -INFO - Enter Passsword
+2022-11-28 17:17:39,513 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-28 17:17:44,289 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-28 17:17:46,369 - 9JulyBanking -INFO - Enter deposit value
+2022-11-28 17:17:48,958 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-28 17:17:48,995 - 9JulyBanking -INFO - Accoutn created
+2022-11-28 17:41:59,969 - 9JulyBanking -INFO - URL is opened
+2022-11-28 17:42:00,441 - 9JulyBanking -INFO - Enter username
+2022-11-28 17:42:01,109 - 9JulyBanking -INFO - Enter Passsword
+2022-11-29 08:22:40,628 - 9JulyBanking -INFO - URL is opened
+2022-11-29 08:22:41,023 - 9JulyBanking -INFO - Enter username
+2022-11-29 08:22:41,417 - 9JulyBanking -INFO - Enter Passsword
+2022-11-29 08:22:49,890 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-29 08:22:58,718 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2022-11-29 08:22:58,795 - 9JulyBanking -INFO - Enter customer name
+2022-11-29 08:22:58,976 - 9JulyBanking -INFO - Select gender
+2022-11-29 08:22:59,093 - 9JulyBanking -INFO - Select DOB
+2022-11-29 08:23:01,164 - 9JulyBanking -INFO - Enter Address
+2022-11-29 08:23:01,220 - 9JulyBanking -INFO - Select city
+2022-11-29 08:23:01,258 - 9JulyBanking -INFO - Select State
+2022-11-29 08:23:01,300 - 9JulyBanking -INFO - Select Pinno
+2022-11-29 08:23:01,337 - 9JulyBanking -INFO - Enter mobile number
+2022-11-29 08:23:01,384 - 9JulyBanking -INFO - Enter email address
+2022-11-29 08:23:01,429 - 9JulyBanking -INFO - Enter password
+2022-11-29 08:23:03,920 - 9JulyBanking -INFO - Click on submit button
+2022-11-29 08:23:21,662 - 9JulyBanking -INFO - URL is open
+2022-11-29 08:23:22,178 - 9JulyBanking -INFO - Enter username
+2022-11-29 08:23:22,344 - 9JulyBanking -INFO - Enter Password
+2022-11-29 08:23:39,049 - 9JulyBanking -INFO - URL is opened
+2022-11-29 08:23:39,373 - 9JulyBanking -INFO - Enter username
+2022-11-29 08:23:39,873 - 9JulyBanking -INFO - Enter Passsword
+2022-11-29 08:23:49,879 - 9JulyBanking -INFO - Click on NewAccount tab
+2022-11-29 08:23:52,765 - 9JulyBanking -INFO - Enter Customer nuuber
+2022-11-29 08:23:54,836 - 9JulyBanking -INFO - Enter deposit value
+2022-11-29 08:23:57,209 - 9JulyBanking -INFO - Clcik on subit button
+2022-11-29 08:23:57,245 - 9JulyBanking -INFO - Accoutn created
+2022-11-29 09:08:22,779 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:08:23,999 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:08:24,191 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:08:28,449 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:08:42,646 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:08:42,983 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:08:43,092 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:08:48,830 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:09:02,405 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:09:02,683 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:09:03,160 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:09:09,406 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:09:25,103 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:09:25,457 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:09:25,713 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:09:30,225 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:09:44,004 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:09:46,088 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:09:46,441 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:09:54,390 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:17:00,216 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:17:00,732 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:17:01,121 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:17:07,154 - 9JulyBanking -INFO - Login passed
+2022-11-29 09:17:27,330 - 9JulyBanking -INFO - URL is open
+2022-11-29 09:17:27,849 - 9JulyBanking -INFO - Enter username
+2022-11-29 09:17:28,255 - 9JulyBanking -INFO - Enter Password
+2022-11-29 09:17:36,169 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:46:17,917 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:46:18,284 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:46:18,496 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:46:26,724 - 9JulyBanking -INFO - Login failed
+2023-02-08 13:50:28,176 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:50:28,487 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:50:28,664 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:50:31,871 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:51:01,526 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:51:01,667 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:51:01,871 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:51:09,540 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:51:40,616 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:51:40,866 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:51:41,436 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:51:46,552 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:52:11,736 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:52:12,000 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:52:12,216 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:52:21,107 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:52:50,827 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:52:51,050 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:52:51,431 - 9JulyBanking -INFO - Enter Password
+2023-02-08 13:53:01,971 - 9JulyBanking -INFO - Login passed
+2023-02-08 13:58:14,160 - 9JulyBanking -INFO - URL is open
+2023-02-08 13:58:14,409 - 9JulyBanking -INFO - Enter username
+2023-02-08 13:58:14,728 - 9JulyBanking -INFO - Enter Password
+2023-02-08 14:08:53,916 - 9JulyBanking -INFO - URL is open
+2023-02-08 14:08:54,699 - 9JulyBanking -INFO - Enter username
+2023-02-08 14:08:55,492 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:49:30,642 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:49:30,888 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:49:31,097 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:49:37,002 - 9JulyBanking -INFO - Login passed
+2023-02-08 22:50:07,978 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:50:08,153 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:50:08,297 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:50:11,788 - 9JulyBanking -INFO - Login passed
+2023-02-08 22:50:39,034 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:50:39,555 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:50:39,711 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:50:46,035 - 9JulyBanking -INFO - Login passed
+2023-02-08 22:51:11,174 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:51:11,356 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:51:11,564 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:51:18,938 - 9JulyBanking -INFO - Login passed
+2023-02-08 22:51:42,111 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:51:42,296 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:51:42,471 - 9JulyBanking -INFO - Enter Password
+2023-02-08 22:51:47,201 - 9JulyBanking -INFO - Login passed
+2023-02-08 22:53:59,050 - 9JulyBanking -INFO - URL is opened
+2023-02-08 22:53:59,395 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:53:59,545 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 22:54:09,650 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2023-02-08 22:54:26,566 - 9JulyBanking -INFO - Clcik on addnew customer tab
+2023-02-08 22:54:26,716 - 9JulyBanking -INFO - Enter customer name
+2023-02-08 22:54:27,109 - 9JulyBanking -INFO - Select gender
+2023-02-08 22:54:27,419 - 9JulyBanking -INFO - Select DOB
+2023-02-08 22:54:29,566 - 9JulyBanking -INFO - Enter Address
+2023-02-08 22:54:29,694 - 9JulyBanking -INFO - Select city
+2023-02-08 22:54:29,822 - 9JulyBanking -INFO - Select State
+2023-02-08 22:54:29,968 - 9JulyBanking -INFO - Select Pinno
+2023-02-08 22:54:30,110 - 9JulyBanking -INFO - Enter mobile number
+2023-02-08 22:54:30,303 - 9JulyBanking -INFO - Enter email address
+2023-02-08 22:54:30,491 - 9JulyBanking -INFO - Enter password
+2023-02-08 22:54:41,244 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 22:54:43,346 - 9JulyBanking -INFO - User created
+2023-02-08 22:55:04,072 - 9JulyBanking -INFO - URL is open
+2023-02-08 22:55:04,208 - 9JulyBanking -INFO - Enter username
+2023-02-08 22:55:04,380 - 9JulyBanking -INFO - Enter Password
+2023-02-08 23:01:58,625 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:01:58,871 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:01:59,575 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:02:08,550 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:02:21,012 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:02:21,151 - 9JulyBanking -INFO - Enter customer name
+2023-02-08 23:02:21,541 - 9JulyBanking -INFO - Select gender
+2023-02-08 23:02:21,816 - 9JulyBanking -INFO - Select DOB
+2023-02-08 23:02:23,991 - 9JulyBanking -INFO - Enter Address
+2023-02-08 23:02:24,151 - 9JulyBanking -INFO - Select city
+2023-02-08 23:02:24,386 - 9JulyBanking -INFO - Select State
+2023-02-08 23:02:24,616 - 9JulyBanking -INFO - Select Pinno
+2023-02-08 23:02:24,768 - 9JulyBanking -INFO - Enter mobile number
+2023-02-08 23:02:24,946 - 9JulyBanking -INFO - Enter email address
+2023-02-08 23:02:25,086 - 9JulyBanking -INFO - Enter password
+2023-02-08 23:02:33,062 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 23:02:35,187 - 9JulyBanking -INFO - User created
+2023-02-08 23:02:55,617 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:02:55,828 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:02:56,138 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:03:03,073 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-08 23:03:12,014 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-08 23:03:14,193 - 9JulyBanking -INFO - Enter deposit value
+2023-02-08 23:03:14,918 - 9JulyBanking -INFO - Clcik on subit button
+2023-02-08 23:20:42,831 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:20:43,166 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:20:43,382 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:20:54,216 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-08 23:21:05,052 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-08 23:21:07,282 - 9JulyBanking -INFO - Enter deposit value
+2023-02-08 23:21:09,517 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 23:23:16,036 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:23:16,236 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:23:16,386 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:23:25,396 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:23:40,376 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:23:40,552 - 9JulyBanking -INFO - Enter customer name
+2023-02-08 23:23:40,687 - 9JulyBanking -INFO - Select gender
+2023-02-08 23:23:41,296 - 9JulyBanking -INFO - Select DOB
+2023-02-08 23:23:43,482 - 9JulyBanking -INFO - Enter Address
+2023-02-08 23:23:43,627 - 9JulyBanking -INFO - Select city
+2023-02-08 23:23:43,771 - 9JulyBanking -INFO - Select State
+2023-02-08 23:23:43,947 - 9JulyBanking -INFO - Select Pinno
+2023-02-08 23:23:44,100 - 9JulyBanking -INFO - Enter mobile number
+2023-02-08 23:23:44,296 - 9JulyBanking -INFO - Enter email address
+2023-02-08 23:23:44,442 - 9JulyBanking -INFO - Enter password
+2023-02-08 23:23:52,297 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 23:23:54,420 - 9JulyBanking -INFO - User created
+2023-02-08 23:24:16,708 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:24:16,907 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:24:17,118 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:24:25,113 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-08 23:24:32,208 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-08 23:24:34,353 - 9JulyBanking -INFO - Enter deposit value
+2023-02-08 23:24:35,802 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 23:55:48,342 - 9JulyBanking -INFO - URL is opened
+2023-02-08 23:55:48,669 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:55:48,839 - 9JulyBanking -INFO - Enter Passsword
+2023-02-08 23:55:59,102 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:56:13,673 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-08 23:56:13,819 - 9JulyBanking -INFO - Enter customer name
+2023-02-08 23:56:13,932 - 9JulyBanking -INFO - Select gender
+2023-02-08 23:56:14,296 - 9JulyBanking -INFO - Select DOB
+2023-02-08 23:56:16,480 - 9JulyBanking -INFO - Enter Address
+2023-02-08 23:56:16,605 - 9JulyBanking -INFO - Select city
+2023-02-08 23:56:16,744 - 9JulyBanking -INFO - Select State
+2023-02-08 23:56:16,892 - 9JulyBanking -INFO - Select Pinno
+2023-02-08 23:56:17,026 - 9JulyBanking -INFO - Enter mobile number
+2023-02-08 23:56:17,204 - 9JulyBanking -INFO - Enter email address
+2023-02-08 23:56:17,337 - 9JulyBanking -INFO - Enter password
+2023-02-08 23:56:28,597 - 9JulyBanking -INFO - Click on submit button
+2023-02-08 23:56:30,749 - 9JulyBanking -INFO - User created
+2023-02-08 23:57:16,464 - 9JulyBanking -INFO - URL is open
+2023-02-08 23:57:16,654 - 9JulyBanking -INFO - Enter username
+2023-02-08 23:57:16,956 - 9JulyBanking -INFO - Enter Password
+2023-02-10 11:58:10,099 - 9JulyBanking -INFO - URL is opened
+2023-02-10 11:58:12,703 - 9JulyBanking -INFO - URL is opened
+2023-02-10 11:58:22,731 - 9JulyBanking -INFO - URL is opened
+2023-02-10 11:58:53,899 - 9JulyBanking -INFO - URL is opened
+2023-02-10 11:58:54,616 - 9JulyBanking -INFO - Enter username
+2023-02-10 11:58:55,046 - 9JulyBanking -INFO - Enter Passsword
+2023-02-10 11:59:05,175 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-10 11:59:20,109 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-10 11:59:20,330 - 9JulyBanking -INFO - Enter customer name
+2023-02-10 11:59:20,529 - 9JulyBanking -INFO - Select gender
+2023-02-10 11:59:21,837 - 9JulyBanking -INFO - Select DOB
+2023-02-10 11:59:24,191 - 9JulyBanking -INFO - Enter Address
+2023-02-10 11:59:24,386 - 9JulyBanking -INFO - Select city
+2023-02-10 11:59:24,566 - 9JulyBanking -INFO - Select State
+2023-02-10 11:59:24,787 - 9JulyBanking -INFO - Select Pinno
+2023-02-10 11:59:25,052 - 9JulyBanking -INFO - Enter mobile number
+2023-02-10 11:59:25,528 - 9JulyBanking -INFO - Enter email address
+2023-02-10 11:59:25,873 - 9JulyBanking -INFO - Enter password
+2023-02-10 11:59:32,252 - 9JulyBanking -INFO - Click on submit button
+2023-02-10 11:59:34,378 - 9JulyBanking -INFO - User created
+2023-02-10 11:59:55,947 - 9JulyBanking -INFO - URL is opened
+2023-02-10 11:59:56,273 - 9JulyBanking -INFO - Enter username
+2023-02-10 11:59:56,729 - 9JulyBanking -INFO - Enter Passsword
+2023-02-10 12:00:05,666 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-10 12:00:12,528 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-10 12:00:14,783 - 9JulyBanking -INFO - Enter deposit value
+2023-02-10 12:00:15,989 - 9JulyBanking -INFO - Click on submit button
+2023-02-13 19:05:37,455 - 9JulyBanking -INFO - URL is opened
+2023-02-13 19:05:37,740 - 9JulyBanking -INFO - Enter username
+2023-02-13 19:05:37,924 - 9JulyBanking -INFO - Enter Passsword
+2023-02-13 19:06:04,878 - 9JulyBanking -INFO - URL is opened
+2023-02-13 19:06:08,066 - 9JulyBanking -INFO - URL is open
+2023-02-15 23:04:51,456 - 9JulyBanking -INFO - URL is opened
+2023-02-15 23:04:51,792 - 9JulyBanking -INFO - Enter username
+2023-02-15 23:04:52,094 - 9JulyBanking -INFO - Enter Passsword
+2023-02-15 23:05:02,740 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-15 23:05:14,889 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-15 23:05:15,064 - 9JulyBanking -INFO - Enter customer name
+2023-02-15 23:05:15,228 - 9JulyBanking -INFO - Select gender
+2023-02-15 23:05:16,085 - 9JulyBanking -INFO - Select DOB
+2023-02-15 23:05:18,344 - 9JulyBanking -INFO - Enter Address
+2023-02-15 23:05:18,552 - 9JulyBanking -INFO - Select city
+2023-02-15 23:05:18,741 - 9JulyBanking -INFO - Select State
+2023-02-15 23:05:18,945 - 9JulyBanking -INFO - Select Pinno
+2023-02-15 23:05:19,138 - 9JulyBanking -INFO - Enter mobile number
+2023-02-15 23:05:19,447 - 9JulyBanking -INFO - Enter email address
+2023-02-15 23:05:19,689 - 9JulyBanking -INFO - Enter password
+2023-02-15 23:05:28,477 - 9JulyBanking -INFO - Click on submit button
+2023-02-15 23:05:30,585 - 9JulyBanking -INFO - User created
+2023-02-15 23:05:56,876 - 9JulyBanking -INFO - URL is opened
+2023-02-15 23:05:57,146 - 9JulyBanking -INFO - Enter username
+2023-02-15 23:05:57,474 - 9JulyBanking -INFO - Enter Passsword
+2023-02-15 23:06:03,888 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-15 23:06:09,758 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-15 23:06:11,938 - 9JulyBanking -INFO - Enter deposit value
+2023-02-15 23:06:13,948 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 17:56:21,198 - 9JulyBanking -INFO - URL is open
+2023-02-16 17:56:21,474 - 9JulyBanking -INFO - Enter username
+2023-02-16 17:56:21,638 - 9JulyBanking -INFO - Enter Password
+2023-02-16 18:06:29,422 - 9JulyBanking -INFO - URL is open
+2023-02-16 18:06:29,662 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:06:29,927 - 9JulyBanking -INFO - Enter Password
+2023-02-16 18:06:32,072 - 9JulyBanking -INFO - Get Title
+2023-02-16 18:06:52,140 - 9JulyBanking -INFO - URL is opened
+2023-02-16 18:06:52,302 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:06:52,458 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 18:07:00,271 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 18:07:11,313 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 18:07:11,463 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 18:07:11,568 - 9JulyBanking -INFO - Select gender
+2023-02-16 18:07:12,243 - 9JulyBanking -INFO - Select DOB
+2023-02-16 18:07:14,408 - 9JulyBanking -INFO - Enter Address
+2023-02-16 18:07:14,551 - 9JulyBanking -INFO - Select city
+2023-02-16 18:07:14,682 - 9JulyBanking -INFO - Select State
+2023-02-16 18:07:14,883 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 18:07:15,048 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 18:07:15,280 - 9JulyBanking -INFO - Enter email address
+2023-02-16 18:07:15,443 - 9JulyBanking -INFO - Enter password
+2023-02-16 18:07:24,719 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 18:07:26,967 - 9JulyBanking -INFO - User created
+2023-02-16 18:07:43,234 - 9JulyBanking -INFO - URL is opened
+2023-02-16 18:07:43,665 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:07:43,949 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 18:07:55,962 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 18:08:03,239 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 18:08:05,434 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 18:08:06,461 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 18:25:16,551 - 9JulyBanking -INFO - URL is open
+2023-02-16 18:25:16,919 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:25:17,195 - 9JulyBanking -INFO - Enter Password
+2023-02-16 18:25:24,138 - 9JulyBanking -INFO - Get Title
+2023-02-16 18:25:44,371 - 9JulyBanking -INFO - URL is opened
+2023-02-16 18:25:44,559 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:25:44,711 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 18:25:55,536 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 18:26:11,589 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 18:26:11,707 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 18:26:11,806 - 9JulyBanking -INFO - Select gender
+2023-02-16 18:26:12,490 - 9JulyBanking -INFO - Select DOB
+2023-02-16 18:26:14,663 - 9JulyBanking -INFO - Enter Address
+2023-02-16 18:26:14,803 - 9JulyBanking -INFO - Select city
+2023-02-16 18:26:14,943 - 9JulyBanking -INFO - Select State
+2023-02-16 18:26:15,113 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 18:26:15,346 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 18:26:15,586 - 9JulyBanking -INFO - Enter email address
+2023-02-16 18:26:15,726 - 9JulyBanking -INFO - Enter password
+2023-02-16 18:26:24,753 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 18:26:26,814 - 9JulyBanking -INFO - User created
+2023-02-16 18:26:43,585 - 9JulyBanking -INFO - URL is opened
+2023-02-16 18:26:43,795 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:26:43,974 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 18:26:54,666 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 18:26:59,237 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 18:27:01,348 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 18:27:02,046 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 18:56:20,562 - 9JulyBanking -INFO - URL is open
+2023-02-16 18:56:21,143 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:56:21,418 - 9JulyBanking -INFO - Enter Password
+2023-02-16 18:56:29,042 - 9JulyBanking -INFO - Get Title
+2023-02-16 18:57:14,125 - 9JulyBanking -INFO - URL is opened
+2023-02-16 18:57:14,951 - 9JulyBanking -INFO - Enter username
+2023-02-16 18:57:15,513 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:02:29,003 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:02:29,427 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:02:29,922 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:02:48,475 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:03:07,060 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:03:07,168 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 19:03:07,248 - 9JulyBanking -INFO - Select gender
+2023-02-16 19:03:07,872 - 9JulyBanking -INFO - Select DOB
+2023-02-16 19:03:10,016 - 9JulyBanking -INFO - Enter Address
+2023-02-16 19:03:10,161 - 9JulyBanking -INFO - Select city
+2023-02-16 19:03:10,301 - 9JulyBanking -INFO - Select State
+2023-02-16 19:03:10,436 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 19:03:10,578 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 19:03:10,812 - 9JulyBanking -INFO - Enter email address
+2023-02-16 19:03:11,057 - 9JulyBanking -INFO - Enter password
+2023-02-16 19:03:31,867 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:03:33,938 - 9JulyBanking -INFO - User created
+2023-02-16 19:06:34,496 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:06:35,145 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:06:35,642 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:06:52,439 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 19:07:00,349 - 9JulyBanking -INFO - URL is open
+2023-02-16 19:07:01,444 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:07:01,735 - 9JulyBanking -INFO - Enter Password
+2023-02-16 19:07:08,464 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 19:07:10,698 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 19:07:12,783 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:14:31,747 - 9JulyBanking -INFO - URL is open
+2023-02-16 19:14:31,930 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:14:32,080 - 9JulyBanking -INFO - Enter Password
+2023-02-16 19:14:39,748 - 9JulyBanking -INFO - Get Title
+2023-02-16 19:15:10,936 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:15:11,108 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:15:11,303 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:15:31,724 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:15:46,113 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:15:46,243 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 19:15:46,362 - 9JulyBanking -INFO - Select gender
+2023-02-16 19:15:46,711 - 9JulyBanking -INFO - Select DOB
+2023-02-16 19:15:48,905 - 9JulyBanking -INFO - Enter Address
+2023-02-16 19:15:49,077 - 9JulyBanking -INFO - Select city
+2023-02-16 19:15:49,248 - 9JulyBanking -INFO - Select State
+2023-02-16 19:15:49,471 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 19:15:49,724 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 19:15:50,023 - 9JulyBanking -INFO - Enter email address
+2023-02-16 19:15:50,204 - 9JulyBanking -INFO - Enter password
+2023-02-16 19:16:02,592 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:16:04,663 - 9JulyBanking -INFO - User created
+2023-02-16 19:16:38,347 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:16:38,492 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:16:38,643 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:16:58,381 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 19:17:08,919 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 19:17:11,040 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 19:17:11,764 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:25:09,712 - 9JulyBanking -INFO - URL is open
+2023-02-16 19:25:10,051 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:25:10,275 - 9JulyBanking -INFO - Enter Password
+2023-02-16 19:25:22,534 - 9JulyBanking -INFO - Get Title
+2023-02-16 19:25:39,047 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:25:39,225 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:25:39,428 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:25:51,834 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:26:07,452 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:26:07,654 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 19:26:07,831 - 9JulyBanking -INFO - Select gender
+2023-02-16 19:26:08,822 - 9JulyBanking -INFO - Select DOB
+2023-02-16 19:26:11,026 - 9JulyBanking -INFO - Enter Address
+2023-02-16 19:26:11,196 - 9JulyBanking -INFO - Select city
+2023-02-16 19:26:11,352 - 9JulyBanking -INFO - Select State
+2023-02-16 19:26:11,566 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 19:26:11,817 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 19:26:12,187 - 9JulyBanking -INFO - Enter email address
+2023-02-16 19:26:12,414 - 9JulyBanking -INFO - Enter password
+2023-02-16 19:26:23,087 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:26:25,190 - 9JulyBanking -INFO - User created
+2023-02-16 19:26:53,746 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:26:54,065 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:26:54,396 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:27:04,286 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 19:27:16,753 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 19:27:18,872 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 19:27:24,341 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:27:24,392 - 9JulyBanking -INFO - Account created
+2023-02-16 19:27:24,423 - 9JulyBanking -INFO - Login passed
+2023-02-16 19:32:51,044 - 9JulyBanking -INFO - URL is open
+2023-02-16 19:32:51,583 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:32:53,985 - 9JulyBanking -INFO - Enter Password
+2023-02-16 19:33:05,008 - 9JulyBanking -INFO - Get Title
+2023-02-16 19:33:23,287 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:33:23,947 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:33:31,002 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:33:46,841 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:34:17,208 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:34:17,593 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 19:34:18,203 - 9JulyBanking -INFO - Select gender
+2023-02-16 19:34:18,977 - 9JulyBanking -INFO - Select DOB
+2023-02-16 19:34:23,429 - 9JulyBanking -INFO - Enter Address
+2023-02-16 19:34:23,879 - 9JulyBanking -INFO - Select city
+2023-02-16 19:34:24,222 - 9JulyBanking -INFO - Select State
+2023-02-16 19:34:24,648 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 19:34:25,042 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 19:34:25,425 - 9JulyBanking -INFO - Enter email address
+2023-02-16 19:34:25,718 - 9JulyBanking -INFO - Enter password
+2023-02-16 19:34:33,284 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:34:35,362 - 9JulyBanking -INFO - User created
+2023-02-16 19:34:51,825 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:34:52,249 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:34:52,893 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:35:05,110 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 19:35:15,619 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 19:35:17,937 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 19:35:22,662 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:35:22,720 - 9JulyBanking -INFO - Account created
+2023-02-16 19:35:22,746 - 9JulyBanking -INFO - Login passed
+2023-02-16 19:43:16,985 - 9JulyBanking -INFO - URL is open
+2023-02-16 19:43:17,549 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:43:17,853 - 9JulyBanking -INFO - Enter Password
+2023-02-16 19:43:25,296 - 9JulyBanking -INFO - Get Title
+2023-02-16 19:43:43,489 - 9JulyBanking -INFO - URL is opened
+2023-02-16 19:43:43,642 - 9JulyBanking -INFO - Enter username
+2023-02-16 19:43:43,826 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 19:44:21,556 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:45:15,581 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 19:45:15,807 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 19:45:15,999 - 9JulyBanking -INFO - Select gender
+2023-02-16 19:45:16,486 - 9JulyBanking -INFO - Select DOB
+2023-02-16 19:45:18,753 - 9JulyBanking -INFO - Enter Address
+2023-02-16 19:45:18,972 - 9JulyBanking -INFO - Select city
+2023-02-16 19:45:19,192 - 9JulyBanking -INFO - Select State
+2023-02-16 19:45:19,482 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 19:45:19,754 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 19:45:20,105 - 9JulyBanking -INFO - Enter email address
+2023-02-16 19:45:20,336 - 9JulyBanking -INFO - Enter password
+2023-02-16 19:46:08,381 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 19:46:10,443 - 9JulyBanking -INFO - User created
+2023-02-16 19:51:20,504 - 9JulyBanking -INFO - URL is opened
+2023-02-16 20:12:50,943 - 9JulyBanking -INFO - URL is open
+2023-02-16 20:12:51,216 - 9JulyBanking -INFO - Enter username
+2023-02-16 20:12:51,560 - 9JulyBanking -INFO - Enter Password
+2023-02-16 20:12:58,438 - 9JulyBanking -INFO - Get Title
+2023-02-16 20:13:43,224 - 9JulyBanking -INFO - URL is opened
+2023-02-16 20:13:43,429 - 9JulyBanking -INFO - Enter username
+2023-02-16 20:13:43,634 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 20:14:00,520 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 20:14:12,820 - 9JulyBanking -INFO - Click on addnew customer tab
+2023-02-16 20:14:12,938 - 9JulyBanking -INFO - Enter customer name
+2023-02-16 20:14:13,038 - 9JulyBanking -INFO - Select gender
+2023-02-16 20:14:13,705 - 9JulyBanking -INFO - Select DOB
+2023-02-16 20:14:15,873 - 9JulyBanking -INFO - Enter Address
+2023-02-16 20:14:15,992 - 9JulyBanking -INFO - Select city
+2023-02-16 20:14:16,103 - 9JulyBanking -INFO - Select State
+2023-02-16 20:14:16,276 - 9JulyBanking -INFO - Select Pinno
+2023-02-16 20:14:16,460 - 9JulyBanking -INFO - Enter mobile number
+2023-02-16 20:14:16,637 - 9JulyBanking -INFO - Enter email address
+2023-02-16 20:14:16,754 - 9JulyBanking -INFO - Enter password
+2023-02-16 20:14:24,663 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 20:14:26,756 - 9JulyBanking -INFO - User created
+2023-02-16 20:14:47,388 - 9JulyBanking -INFO - URL is opened
+2023-02-16 20:14:47,608 - 9JulyBanking -INFO - Enter username
+2023-02-16 20:14:47,793 - 9JulyBanking -INFO - Enter Passsword
+2023-02-16 20:14:57,140 - 9JulyBanking -INFO - Click on NewAccount tab
+2023-02-16 20:15:04,512 - 9JulyBanking -INFO - Enter Customer nuuber
+2023-02-16 20:15:06,732 - 9JulyBanking -INFO - Enter deposit value
+2023-02-16 20:15:13,464 - 9JulyBanking -INFO - Click on submit button
+2023-02-16 20:15:13,540 - 9JulyBanking -INFO - Account created
+2023-02-16 20:15:13,590 - 9JulyBanking -INFO - Login passed
