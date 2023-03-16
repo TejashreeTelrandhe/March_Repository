@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Failed_XML.assertEquals"/>
+      <class name="Failed_XML.assertTrue"/>
+      <class name="Failed_XML.assertNotEquals"/>
+      <class name="Failed_XML.assertFalse"/>
+      <class name="Failed_XML.assertNotNull"/>
+      <class name="Failed_XML.fail"/>
+      <class name="Failed_XML.assertNull"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

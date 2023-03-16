@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="TestNG_Include_Exclude.assertEquals" />
+			<methods>
+				<include name="NewCustomer" />
+			</methods>
+			<class name="TestNG_Include_Exclude.assertNull" />
+			<methods>
+				<exclude name="Deposit" />
+			</methods>
+			<class name="TestNG_Include_Exclude.assertTrue" />
+			<methods>
+				<include name="Deposit" />
+			</methods>
+			<class name="TestNG_Include_Exclude.assertFalse" />
+			<methods>
+				<include name="Deposit" />
+			</methods>
+			<class name="TestNG_Include_Exclude.fail" />
+			<methods>
+				<include name="Login" />
+			</methods>
+			<class name="TestNG_Include_Exclude.assertNotNull" />
+			<methods>
+				<exclude name="NewCustomer" />
+			</methods>
+			<class name="TestNG_Include_Exclude.assertNotEquals" />
+			<methods>
+				<exclude name="EditCustomer" />
+			</methods>
+		</classes>
+	</test>
+
+</suite> 
