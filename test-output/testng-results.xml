@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T11:54:19 IST" name="Suite" finished-at="2023-03-08T11:55:15 IST" duration-ms="56306">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T11:54:19 IST" name="Test1" finished-at="2023-03-08T11:54:51 IST" duration-ms="31767">
+      <class name="CrossBrowserTesting.Crossbrowser">
+        <test-method signature="OrangHRMLogin(java.lang.String)[pri:0, instance:CrossBrowserTesting.Crossbrowser@a2431d0]" started-at="2023-03-08T11:54:19 IST" name="OrangHRMLogin" finished-at="2023-03-08T11:54:51 IST" duration-ms="31670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangHRMLogin -->
+      </class> <!-- CrossBrowserTesting.Crossbrowser -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-03-08T11:54:51 IST" name="Test2" finished-at="2023-03-08T11:55:15 IST" duration-ms="24403">
+      <class name="CrossBrowserTesting.Crossbrowser">
+        <test-method signature="OrangHRMLogin(java.lang.String)[pri:0, instance:CrossBrowserTesting.Crossbrowser@1a18644]" started-at="2023-03-08T11:54:51 IST" name="OrangHRMLogin" finished-at="2023-03-08T11:55:15 IST" duration-ms="24403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangHRMLogin -->
+      </class> <!-- CrossBrowserTesting.Crossbrowser -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
