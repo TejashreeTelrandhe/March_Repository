@@ -1,0 +1,202 @@
+2023-03-11 22:31:46,709 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:31:47,035 - DDF Framework -INFO - Enter Password
+2023-03-11 22:31:47,531 - DDF Framework -INFO - Click on login button
+2023-03-11 22:31:55,700 - DDF Framework -INFO - Click on Deposit
+2023-03-11 22:32:15,089 - DDF Framework -INFO - Deposit page refreshed
+2023-03-11 22:32:24,951 - DDF Framework -INFO - Click on Deposit
+2023-03-11 22:32:34,467 - DDF Framework -INFO - Enter account no
+2023-03-11 22:32:34,658 - DDF Framework -INFO - Enter ammount
+2023-03-11 22:32:34,820 - DDF Framework -INFO - Enter description
+2023-03-11 22:32:34,998 - DDF Framework -INFO - Click submit
+2023-03-11 22:32:37,661 - DDF Framework -INFO - Verify Deposit page title
+2023-03-11 22:33:32,068 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:33:32,258 - DDF Framework -INFO - Enter Password
+2023-03-11 22:33:32,521 - DDF Framework -INFO - Click on login button
+2023-03-11 22:33:57,683 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:33:57,812 - DDF Framework -INFO - DeleteAccount Page refreshed
+2023-03-11 22:34:11,009 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:34:29,194 - DDF Framework -INFO - Verify DeleteAccount heading
+2023-03-11 22:34:29,265 - DDF Framework -INFO - Enter account no
+2023-03-11 22:34:29,432 - DDF Framework -INFO - Click on submit button
+2023-03-11 22:34:29,612 - DDF Framework -INFO - Dismiss the alert
+2023-03-11 22:34:29,648 - DDF Framework -INFO - Verify deleteaccount page title
+2023-03-11 22:38:23,227 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:38:23,453 - DDF Framework -INFO - Enter Password
+2023-03-11 22:38:23,808 - DDF Framework -INFO - Click on login button
+2023-03-11 22:38:27,490 - DDF Framework -INFO - Click on Deposit
+2023-03-11 22:38:36,951 - DDF Framework -INFO - Deposit page refreshed
+2023-03-11 22:38:45,255 - DDF Framework -INFO - Click on Deposit
+2023-03-11 22:38:50,715 - DDF Framework -INFO - Enter account no
+2023-03-11 22:38:50,915 - DDF Framework -INFO - Enter ammount
+2023-03-11 22:38:51,055 - DDF Framework -INFO - Enter description
+2023-03-11 22:38:51,185 - DDF Framework -INFO - Click submit
+2023-03-11 22:38:53,464 - DDF Framework -INFO - Verify Deposit page title
+2023-03-11 22:39:27,983 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:39:28,263 - DDF Framework -INFO - Enter Password
+2023-03-11 22:39:28,673 - DDF Framework -INFO - Click on login button
+2023-03-11 22:39:38,080 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:39:38,199 - DDF Framework -INFO - DeleteAccount Page refreshed
+2023-03-11 22:39:49,891 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:39:58,507 - DDF Framework -INFO - Verify DeleteAccount heading
+2023-03-11 22:39:58,563 - DDF Framework -INFO - Enter account no
+2023-03-11 22:39:58,716 - DDF Framework -INFO - Click on submit button
+2023-03-11 22:39:59,020 - DDF Framework -INFO - Dismiss the alert
+2023-03-11 22:39:59,080 - DDF Framework -INFO - Verify deleteaccount page title
+2023-03-11 22:40:31,717 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:40:31,905 - DDF Framework -INFO - Enter Password
+2023-03-11 22:40:32,377 - DDF Framework -INFO - Click on login button
+2023-03-11 22:40:37,428 - DDF Framework -INFO - Click on MiniStatement
+2023-03-11 22:40:47,741 - DDF Framework -INFO - MiniStatement page refreshed
+2023-03-11 22:40:56,462 - DDF Framework -INFO - Click on MiniStatement
+2023-03-11 22:41:02,920 - DDF Framework -INFO - Verify MiniStatement heading
+2023-03-11 22:41:02,990 - DDF Framework -INFO - Enter account no
+2023-03-11 22:41:03,156 - DDF Framework -INFO - Click submit
+2023-03-11 22:41:06,144 - DDF Framework -INFO - Verify MiniStatement page title
+2023-03-11 22:41:49,208 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:41:49,443 - DDF Framework -INFO - Enter Password
+2023-03-11 22:41:49,824 - DDF Framework -INFO - Click on login button
+2023-03-11 22:42:06,266 - DDF Framework -INFO - Click CustomisedStatement
+2023-03-11 22:42:06,572 - DDF Framework -INFO - CustomisedStatement page refreshed
+2023-03-11 22:42:13,642 - DDF Framework -INFO - Click CustomisedStatement
+2023-03-11 22:42:22,642 - DDF Framework -INFO - Verify CustomisedStatement heading
+2023-03-11 22:42:22,715 - DDF Framework -INFO - Enter account no
+2023-03-11 22:42:22,868 - DDF Framework -INFO - Select from date
+2023-03-11 22:42:23,209 - DDF Framework -INFO - Select to date
+2023-03-11 22:42:23,556 - DDF Framework -INFO - Enter MinimumTransactionValue 
+2023-03-11 22:42:23,701 - DDF Framework -INFO - Enter NumberofTransaction
+2023-03-11 22:42:23,832 - DDF Framework -INFO - Click on submit button
+2023-03-11 22:42:29,364 - DDF Framework -INFO - Verify CustomisedStatement Title
+2023-03-11 22:43:07,593 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:43:07,783 - DDF Framework -INFO - Enter Password
+2023-03-11 22:43:08,009 - DDF Framework -INFO - Click on login button
+2023-03-11 22:43:39,723 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 22:43:39,938 - DDF Framework -INFO - NewCustomer page refreshed
+2023-03-11 22:43:53,271 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 22:43:57,122 - DDF Framework -INFO - Verify NewCustomer heading
+2023-03-11 22:44:50,946 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:44:51,186 - DDF Framework -INFO - Enter Password
+2023-03-11 22:44:51,527 - DDF Framework -INFO - Click on login button
+2023-03-11 22:45:07,165 - DDF Framework -INFO - Click on EditCustomer
+2023-03-11 22:45:07,356 - DDF Framework -INFO - EditCustomer page refreshed
+2023-03-11 22:45:14,818 - DDF Framework -INFO - Click on EditCustomer
+2023-03-11 22:45:17,255 - DDF Framework -INFO - Verify EditCustomer heading
+2023-03-11 22:45:17,305 - DDF Framework -INFO - Enter customer id
+2023-03-11 22:45:17,465 - DDF Framework -INFO - Click submit
+2023-03-11 22:45:18,477 - DDF Framework -INFO - Handlle alert by clicking on ok
+2023-03-11 22:45:18,497 - DDF Framework -INFO - Verify EditCustomer page title
+2023-03-11 22:52:30,973 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:52:31,268 - DDF Framework -INFO - Enter Password
+2023-03-11 22:52:31,343 - DDF Framework -INFO - Click on login button
+2023-03-11 22:52:36,741 - DDF Framework -INFO - Click on EditAccount
+2023-03-11 22:53:07,676 - DDF Framework -INFO - EditAccount page refreshed
+2023-03-11 22:53:50,189 - DDF Framework -INFO - Click on EditAccount
+2023-03-11 22:54:08,838 - DDF Framework -INFO - Verify EditAccount heading
+2023-03-11 22:54:09,110 - DDF Framework -INFO - Enter Account no
+2023-03-11 22:54:09,155 - DDF Framework -INFO - Click Submit
+2023-03-11 22:54:09,916 - DDF Framework -INFO - Verify EditAccount page Title
+2023-03-11 22:54:45,670 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:54:45,922 - DDF Framework -INFO - Enter Password
+2023-03-11 22:54:45,991 - DDF Framework -INFO - Click on login button
+2023-03-11 22:54:55,304 - DDF Framework -INFO - Click on logout button
+2023-03-11 22:55:00,820 - DDF Framework -INFO - Handled alert by clicking on ok
+2023-03-11 22:55:00,881 - DDF Framework -INFO - Verified the logoutpage Url
+2023-03-11 22:57:37,922 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:57:38,804 - DDF Framework -INFO - Enter Password
+2023-03-11 22:57:39,235 - DDF Framework -INFO - Click on login button
+2023-03-11 22:57:57,332 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 22:57:57,582 - DDF Framework -INFO - NewCustomer page refreshed
+2023-03-11 22:58:05,712 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 22:58:15,503 - DDF Framework -INFO - Verify NewCustomer heading
+2023-03-11 22:59:16,376 - DDF Framework -INFO - Enter Userid
+2023-03-11 22:59:16,533 - DDF Framework -INFO - Enter Password
+2023-03-11 22:59:16,630 - DDF Framework -INFO - Click on login button
+2023-03-11 22:59:21,783 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:59:26,026 - DDF Framework -INFO - DeleteAccount page refreshed
+2023-03-11 22:59:46,074 - DDF Framework -INFO - Click on DeleteAccount
+2023-03-11 22:59:54,455 - DDF Framework -INFO - Verify DeleteAccount heading
+2023-03-11 22:59:54,515 - DDF Framework -INFO - ENter customer id
+2023-03-11 22:59:54,570 - DDF Framework -INFO - Click submit
+2023-03-11 22:59:54,866 - DDF Framework -INFO - Handle alert by clicking on ok
+2023-03-11 22:59:54,941 - DDF Framework -INFO - Verify DeleteAccount page title
+2023-03-11 23:00:39,984 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:00:40,225 - DDF Framework -INFO - Enter Password
+2023-03-11 23:00:40,415 - DDF Framework -INFO - Click on login button
+2023-03-11 23:00:42,841 - DDF Framework -INFO - Click on Balance Inquiry
+2023-03-11 23:00:48,286 - DDF Framework -INFO - Page refreshed
+2023-03-11 23:01:04,651 - DDF Framework -INFO - Click on Balance Inquiry
+2023-03-11 23:01:16,197 - DDF Framework -INFO - Verify Balance Inquiry heading
+2023-03-11 23:01:16,334 - DDF Framework -INFO - Enter account no
+2023-03-11 23:01:16,399 - DDF Framework -INFO - Click on submit button
+2023-03-11 23:01:18,305 - DDF Framework -INFO - Verify BalanceInquiry page Url 
+2023-03-11 23:01:55,744 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:01:55,899 - DDF Framework -INFO - Enter Password
+2023-03-11 23:01:55,969 - DDF Framework -INFO - Click on login button
+2023-03-11 23:02:15,043 - DDF Framework -INFO - Verify the loginpage tile
+2023-03-11 23:02:46,365 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:02:46,541 - DDF Framework -INFO - Enter Password
+2023-03-11 23:02:46,606 - DDF Framework -INFO - Click on login button
+2023-03-11 23:02:54,054 - DDF Framework -INFO - Click on FundTransfer
+2023-03-11 23:03:01,317 - DDF Framework -INFO - FundTransfer page refreshed
+2023-03-11 23:03:21,831 - DDF Framework -INFO - Click on FundTransfer
+2023-03-11 23:03:35,131 - DDF Framework -INFO - Verify FundTransfer heading
+2023-03-11 23:03:35,201 - DDF Framework -INFO - Enter Payers Account No
+2023-03-11 23:03:35,266 - DDF Framework -INFO - Enter Payees Account No
+2023-03-11 23:03:35,341 - DDF Framework -INFO - Enter ammount
+2023-03-11 23:03:35,436 - DDF Framework -INFO - Enter description
+2023-03-11 23:03:35,541 - DDF Framework -INFO - Click Submit
+2023-03-11 23:03:40,719 - DDF Framework -INFO - Verify Fund transfer page title
+2023-03-11 23:04:13,458 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:04:13,723 - DDF Framework -INFO - Enter Password
+2023-03-11 23:04:13,809 - DDF Framework -INFO - Click on login button
+2023-03-11 23:04:19,240 - DDF Framework -INFO - Click on NewAccount
+2023-03-11 23:04:20,512 - DDF Framework -INFO - NewAccount page refreshed
+2023-03-11 23:04:30,155 - DDF Framework -INFO - Click on NewAccount
+2023-03-11 23:04:31,067 - DDF Framework -INFO - Verify NewAccount heading
+2023-03-11 23:04:31,167 - DDF Framework -INFO - Enter customer id
+2023-03-11 23:04:31,237 - DDF Framework -INFO - ENter initial deposit
+2023-03-11 23:04:31,317 - DDF Framework -INFO - Click Submit
+2023-03-11 23:04:33,466 - DDF Framework -INFO - Verify NewAccount Page title
+2023-03-11 23:05:03,401 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:05:03,545 - DDF Framework -INFO - Enter Password
+2023-03-11 23:05:03,616 - DDF Framework -INFO - Click on login button
+2023-03-11 23:05:18,257 - DDF Framework -INFO - Click on Withdrawal
+2023-03-11 23:05:18,368 - DDF Framework -INFO - Withdrawal page refreshed
+2023-03-11 23:05:35,433 - DDF Framework -INFO - Click on Withdrawal
+2023-03-11 23:05:40,808 - DDF Framework -INFO - Verify Withdrawal heaading
+2023-03-11 23:05:40,884 - DDF Framework -INFO - Enter account no
+2023-03-11 23:05:40,958 - DDF Framework -INFO - Enter ammount
+2023-03-11 23:05:41,094 - DDF Framework -INFO - Enter description
+2023-03-11 23:05:41,209 - DDF Framework -INFO - Click on submit button
+2023-03-11 23:05:43,862 - DDF Framework -INFO - Verify withdrawal page title
+2023-03-11 23:07:59,102 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:07:59,374 - DDF Framework -INFO - Enter Password
+2023-03-11 23:07:59,788 - DDF Framework -INFO - Click on login button
+2023-03-11 23:08:05,250 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 23:08:05,555 - DDF Framework -INFO - NewCustomer page refreshed
+2023-03-11 23:08:10,103 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 23:08:14,256 - DDF Framework -INFO - Verify NewCustomer heading
+2023-03-11 23:11:42,168 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:11:42,659 - DDF Framework -INFO - Enter Password
+2023-03-11 23:11:42,939 - DDF Framework -INFO - Click on login button
+2023-03-11 23:13:26,854 - DDF Framework -INFO - Enter Userid
+2023-03-11 23:13:27,149 - DDF Framework -INFO - Enter Password
+2023-03-11 23:13:27,829 - DDF Framework -INFO - Click on login button
+2023-03-11 23:13:32,417 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 23:13:36,641 - DDF Framework -INFO - NewCustomer page refreshed
+2023-03-11 23:13:47,238 - DDF Framework -INFO - Click on NewCustomer
+2023-03-11 23:13:51,609 - DDF Framework -INFO - Verify NewCustomer heading
+2023-03-11 23:13:51,704 - DDF Framework -INFO - Enter customer name
+2023-03-11 23:13:52,073 - DDF Framework -INFO - Click gender
+2023-03-11 23:13:52,358 - DDF Framework -INFO - Enter DOB
+2023-03-11 23:13:53,415 - DDF Framework -INFO - Enter email
+2023-03-11 23:13:53,880 - DDF Framework -INFO - Enter mob no
+2023-03-11 23:13:54,221 - DDF Framework -INFO - Enter Password
+2023-03-11 23:13:54,541 - DDF Framework -INFO - Enter Pin
+2023-03-11 23:13:54,799 - DDF Framework -INFO - Enter address
+2023-03-11 23:13:55,189 - DDF Framework -INFO - Enter city
+2023-03-11 23:13:55,551 - DDF Framework -INFO - Enter state
+2023-03-11 23:13:55,749 - DDF Framework -INFO - Click Submit
+2023-03-11 23:14:02,179 - DDF Framework -INFO - Verify NewCustomer Page title
+2023-03-14 12:04:37,769 - DDF Framework -INFO - Enter Userid
+2023-03-14 12:04:38,120 - DDF Framework -INFO - Enter Password
+2023-03-14 12:04:38,762 - DDF Framework -INFO - Click on login button

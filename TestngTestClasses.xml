@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+		<listener class-name="Guru99_Utilities.TestListener" />
+	</listeners>
+	
+	<test thread-count="5" name="Test_Chrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="Guru99_TestCases.TC_LoginPage" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test thread-count="5" name="Test_Edge">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="Guru99_TestCases.TC_Deposit" />
+			<class name="Guru99_TestCases.TC_DeleteAccount" />
+			<class name="Guru99_TestCases.TC_MiniStatement" />
+			<class name="Guru99_TestCases.TC_CustomisedStatement" />
+			<class name="Guru99_TestCases.TC_NewCustomer" />
+			<!--class name="Guru99_TestCases.TC_ChangePassword" /-->
+			<class name="Guru99_TestCases.TC_EditCustomer" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="5" name="Test_Firefox">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="Guru99_TestCases.TC_DeleteCustomer" />
+			<class name="Guru99_TestCases.TC_LoginPage" />
+			<class name="Guru99_TestCases.TC_NewAccount" />
+			<class name="Guru99_TestCases.TC_Withdrawal" />
+			<class name="Guru99_TestCases.TC_FundTransfer" />
+			<class name="Guru99_TestCases.TC_BalanceInquiry" />
+			<class name="Guru99_TestCases.TC_EditAccount" />
+			<class name="Guru99_TestCases.TC_Logout" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
