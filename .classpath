@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry excluding="LogicalProgram/|TypesOfVariables/|String/|ThisandSuperKeyword/|Interface/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Interface"/>
+	<classpathentry kind="src" path="src/LogicalProgram"/>
+	<classpathentry kind="src" path="src/String"/>
+	<classpathentry kind="src" path="src/ThisandSuperKeyword"/>
+	<classpathentry kind="src" path="src/TypesOfVariables"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
